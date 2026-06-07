@@ -5,6 +5,5 @@ public class name{
         System.out.print("Enter your name: ");
         String name=scanner.nextLine();
         System.out.println(name);
-
     }
 }
